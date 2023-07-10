@@ -1,0 +1,139 @@
+﻿@using Hotel.ViewModels
+@model AccountViewModel
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qeydiyyat</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+
+	<div class="hotel-app">
+
+	<!-- preloader -->
+    <div class="hotel-preloader-frame">
+        <div class="hotel-preloader imgLoad">
+            <img class="lozad" src="~/img/hotellogo.png" alt="logo" />
+            <div class="hotel-preloader-progress">
+                <div class="hotel-preloader-bar"></div>
+            </div>
+            <div>
+                <span class="hotel-preloader-number" data-count="101">0</span>%
+            </div>
+        </div>
+    </div>
+    <!-- preloader end -->
+
+
+        <section class="login">
+            <div class="container">
+                <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+                <div class="user signinBox">
+                    <div class="imgBox"><img src="~/img/1.jpg" alt=""></div>
+                    <div class="formBox">
+                        <form asp-action="Login" method="post">
+                            <h2>Giriş</h2>
+                            <input asp-for="Log.Username" placeholder="İstifadəçi adı">
+                            <span class="text-danger" asp-validation-for="Log.Username"></span>
+
+                            <input asp-for="Log.Password" placeholder="Şifrə">
+                            <span class="text-danger" asp-validation-for="Log.Password"></span>
+
+                            <input type="submit" value="Giriş">
+                <p class="signup">Hesabınız yoxdur? O zaman <a href="#" onclick="toggleForm();">Qedyiyyatdan keçin</a></p>
+                        </form>
+                    </div>
+                </div> 
+                <div class="user signupBox">
+                    <div class="formBox">
+                        <form asp-action="Register" method="post">
+                            <h2>Hesab aç</h2>
+                            <input asp-for="Reg.Name" placeholder="Ad">
+                            <span class="text-danger" asp-validation-for="Reg.Name"></span>
+
+                            <input asp-for="Reg.Surname" placeholder="Soyad">
+                            <span class="text-danger" asp-validation-for="Reg.Surname"></span>
+
+                            <input asp-for="Reg.Username" placeholder="İstifadəçi Adınız">
+                            <span class="text-danger" asp-validation-for="Reg.Username"></span>
+
+                            <input asp-for="Reg.Email" placeholder="E-mail Adresiniz">
+                            <span class="text-danger" asp-validation-for="Reg.Email"></span>
+
+                            <input asp-for="Reg.Password" placeholder="Şifrə">
+                            <span class="text-danger" asp-validation-for="Reg.Password"></span>
+
+                            <input asp-for="Reg.ConfirmPassword" placeholder="Şifrə (təkrar)">
+                            <span class="text-danger" asp-validation-for="Reg.ConfirmPassword"></span>
+
+                            <input type="submit" value="Qeydiyyatdan keç">
+                            <p class="signup">Giriş ekranına <a href="#" onclick="toggleForm();">geri qayıt</a></p>
+                        </form>
+                    </div>
+                    <div class="imgBox"><img src="~/img/rooms/1.jpg" alt=""></div>
+                </div> 
+            </div>
+           </section>
+
+    </div>
+
+
+
+    
+  
+
+
+<script>
+
+
+    function toggleForm(){
+    section = document.querySelector('section');
+    container = document.querySelector('.container');
+    container.classList.toggle('active');
+    section.classList.toggle('active');
+    }
+
+    
+</script>
+<script src="~/js/plugins/jquery.min.js"></script>
+<script src="~/js/plugins/lozad.js"></script>
+<script src="~/https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
+<script>
+    const observer = lozad();
+    observer.observe();
+ </script>
+<!-- bootstrap js -->
+<script src="~/js/plugins/bootstrap.min.js"></script>
+<!-- nice select js -->
+
+<script src="~/js/plugins/jquery.nice-select.min.js"></script>
+<!-- datepicker js -->
+<script src="~/js/plugins/datepicker.js"></script>
+<!-- smooth scroll js -->
+<script src="~/js/plugins/smooth-scroll.js"></script>
+<!-- isotope js -->
+<script src="~/js/plugins/isotope.min.js"></script>
+<!-- mapbox js -->
+<script src="~/js/plugins/mapbox.min.js"></script>
+<!-- fancybox js -->
+<script src="~/https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.2.1/lightgallery.min.js"></script>
+<script src="~/js/plugins/fancybox.min.js"></script>
+<!-- swiper js -->
+<script src="~/js/plugins/swiper.min.js"></script>
+<!-- sticky js -->
+<script src="~/js/plugins/sticky.js"></script>
+<!-- kinsley js -->
+<script src="~/js/main.js"></script>
+
+<partial name="_JqueryValidationPartial" />
+
+</body>
+</html>

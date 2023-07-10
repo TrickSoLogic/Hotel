@@ -1,0 +1,805 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hotel.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\colors.css",
+      "PackagePath": "staticwebassets\\css\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\loaded.css",
+      "PackagePath": "staticwebassets\\css\\loaded.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\plugins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\mapbox-style.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\mapbox-style.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\plugins\\swiper.min.css",
+      "PackagePath": "staticwebassets\\css\\plugins\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\azn.svg",
+      "PackagePath": "staticwebassets\\fonts\\azn.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\jaznr.eot",
+      "PackagePath": "staticwebassets\\fonts\\jaznr.eot"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\jaznr.ttf",
+      "PackagePath": "staticwebassets\\fonts\\jaznr.ttf"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\jaznr.woff",
+      "PackagePath": "staticwebassets\\fonts\\jaznr.woff"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-3.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-4.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-5.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-6.webp",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-6i.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-6i.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-7.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-8.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\HOTEL\\hotel-9.jpg",
+      "PackagePath": "staticwebassets\\img\\HOTEL\\hotel-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\about\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\t1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\t2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\v1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\v1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\v2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\v2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\v3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\v3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\v4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\v4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\v5.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\v5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\about\\video.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\admin.jpg",
+      "PackagePath": "staticwebassets\\img\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\banners\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\banners\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\banners\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\banners\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\blog\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\blog\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\contact\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\contact\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\debug.log",
+      "PackagePath": "staticwebassets\\img\\debug.log"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\demo\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\1.png",
+      "PackagePath": "staticwebassets\\img\\demo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\2.png",
+      "PackagePath": "staticwebassets\\img\\demo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\3.png",
+      "PackagePath": "staticwebassets\\img\\demo\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\404.png",
+      "PackagePath": "staticwebassets\\img\\demo\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\about.png",
+      "PackagePath": "staticwebassets\\img\\demo\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\all.png",
+      "PackagePath": "staticwebassets\\img\\demo\\all.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\blog.png",
+      "PackagePath": "staticwebassets\\img\\demo\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\contact.png",
+      "PackagePath": "staticwebassets\\img\\demo\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\faq.png",
+      "PackagePath": "staticwebassets\\img\\demo\\faq.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\gallery.png",
+      "PackagePath": "staticwebassets\\img\\demo\\gallery.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\menu1.png",
+      "PackagePath": "staticwebassets\\img\\demo\\menu1.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\menu2.png",
+      "PackagePath": "staticwebassets\\img\\demo\\menu2.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\post1.png",
+      "PackagePath": "staticwebassets\\img\\demo\\post1.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\post2.png",
+      "PackagePath": "staticwebassets\\img\\demo\\post2.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\restaurant.png",
+      "PackagePath": "staticwebassets\\img\\demo\\restaurant.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\room.png",
+      "PackagePath": "staticwebassets\\img\\demo\\room.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\rooms1.png",
+      "PackagePath": "staticwebassets\\img\\demo\\rooms1.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\demo\\rooms2.png",
+      "PackagePath": "staticwebassets\\img\\demo\\rooms2.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\faces\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\faces\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\faces\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\faces\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\admin.jpg",
+      "PackagePath": "staticwebassets\\img\\faces\\admin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\faces\\author.png",
+      "PackagePath": "staticwebassets\\img\\faces\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\1.svg",
+      "PackagePath": "staticwebassets\\img\\features\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\10.svg",
+      "PackagePath": "staticwebassets\\img\\features\\10.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\11.svg",
+      "PackagePath": "staticwebassets\\img\\features\\11.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\12.svg",
+      "PackagePath": "staticwebassets\\img\\features\\12.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\2.svg",
+      "PackagePath": "staticwebassets\\img\\features\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\3.svg",
+      "PackagePath": "staticwebassets\\img\\features\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\4.svg",
+      "PackagePath": "staticwebassets\\img\\features\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\5.svg",
+      "PackagePath": "staticwebassets\\img\\features\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\6.svg",
+      "PackagePath": "staticwebassets\\img\\features\\6.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\7.svg",
+      "PackagePath": "staticwebassets\\img\\features\\7.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\8.svg",
+      "PackagePath": "staticwebassets\\img\\features\\8.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\features\\9.svg",
+      "PackagePath": "staticwebassets\\img\\features\\9.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\hotel.svg",
+      "PackagePath": "staticwebassets\\img\\hotel.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\hotellogo.png",
+      "PackagePath": "staticwebassets\\img\\hotellogo.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\bed.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\bed.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\bookmark.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\dialog.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\dialog.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\marker.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\play.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\search.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\square.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\square.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\icons\\time.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\time.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\logo-w.svg",
+      "PackagePath": "staticwebassets\\img\\logo-w.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\logo1.svg",
+      "PackagePath": "staticwebassets\\img\\logo1.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\menu\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\menu\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\palm.svg",
+      "PackagePath": "staticwebassets\\img\\palm.svg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\rooms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\rooms\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\rooms\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\services\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\menu\\debug.log",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\menu\\debug.log"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\team\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\team\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\services\\restaurant\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\services\\restaurant\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\signature.png",
+      "PackagePath": "staticwebassets\\img\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\team\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\img\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\plugins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\isotope.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\lozad.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\lozad.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\mapbox.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\mapbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\smooth-scroll.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\sticky.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\plugins\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\wwwroot\\js\\splide.js",
+      "PackagePath": "staticwebassets\\js\\splide.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hotel.props",
+      "PackagePath": "build\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hotel.props",
+      "PackagePath": "buildTransitive\\Hotel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
