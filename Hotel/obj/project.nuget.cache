@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcHsapyQoYYIE065zK1iFBlu1VRlfUu0+JUC7XuE8ujfelh3Hu6PM55ITZ4NoC0snASRwQdDucL0fLnS27XYxg==",
+  "dgSpecHash": "YRigQqN1QCQKe8vwQF5HjVZrOUWVs3y3Otr3oohNlTwtn+j6+J+71eoAFJqFlo1WpVh/MVvE7R1KihkCC93cog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\manageHotelAppCoreMVC6.csproj",
+  "projectFilePath": "C:\\Users\\visha\\Desktop\\MyCOurse\\ManageHotelAppCoreMVC6\\Hotel\\manageHotelAppCoreMVC6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

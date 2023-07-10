@@ -10480,11 +10480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\manageHotelAppCoreMVC6.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Desktop\\MyCOurse\\ManageHotelAppCoreMVC6\\Hotel\\manageHotelAppCoreMVC6.csproj",
       "projectName": "manageHotelAppCoreMVC6",
-      "projectPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\manageHotelAppCoreMVC6.csproj",
+      "projectPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\ManageHotelAppCoreMVC6\\Hotel\\manageHotelAppCoreMVC6.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\obj\\",
+      "outputPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\ManageHotelAppCoreMVC6\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
