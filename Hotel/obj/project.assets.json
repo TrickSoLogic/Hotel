@@ -10480,9 +10480,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\Hotel.csproj",
-      "projectName": "Hotel",
-      "projectPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\Hotel.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\manageHotelAppCoreMVC6.csproj",
+      "projectName": "manageHotelAppCoreMVC6",
+      "projectPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\manageHotelAppCoreMVC6.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\visha\\Desktop\\MyCOurse\\Hotel-ASP.Net-Core-MVC-master\\Hotel\\obj\\",
       "projectStyle": "PackageReference",
